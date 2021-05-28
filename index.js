@@ -1,4 +1,21 @@
-// Code your solutions in this file
+// Code your solutions in this fil
+
+
+
+for (let age = 30; age < 40; age++) {
+  console.log(`I'm ${age} years old. Happy birthday to me!`);
+  debugger;
+} 
+
+
+
+
+
+
+
+
+
+
 
 /*
 for (let age = 30; age < 40; age++) {
@@ -18,6 +35,17 @@ function wrapGifts(gifts) {
   return gifts;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 wrapGifts(gifts); 
 */
 
@@ -25,6 +53,24 @@ wrapGifts(gifts);
 const event = `surprise`;
 const name = []
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//done
+/*
 
 
 const newArr = [];
@@ -51,3 +97,5 @@ function countDown(integer){
 }
 
 //writeCards(['Lisa', 'Kaitlin', 'Jan' ], 'surprise' )
+
+*/
